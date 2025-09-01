@@ -1,4 +1,3 @@
-[Chapter_1.7_accessible_clean.md](https://github.com/user-attachments/files/21939615/Chapter_1.7_accessible_clean.md)
 # Κεφάλαιο  1  
 Εισαγωγή στη ψηφιακή σχεδίαση και τεχνολογία (από το μηδέν στο ένα)  
 
